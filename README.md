@@ -1,5 +1,9 @@
 # APP Sorteio 
 
+# Ferramentas
+  VSCode
+  
+
 ## O projeto
 
 ### Cores
